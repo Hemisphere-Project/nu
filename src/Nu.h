@@ -16,7 +16,7 @@
 #define NU_STATIC_LENGHT 100 // in sec
 
 #define ZOOM_FACTOR 1 //in pixels
-#define TRV_SPEED -0.1
+#define TRV_SPEED -0.02
 
 
 class Nu {

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7B655226-FC83-4A4D-9B39-A2B7C6BCF977</string>
+	<key>IDESourceControlProjectName</key>
+	<string>nu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>89E74894-17B0-4ECB-BCFE-1DB6179DF631</key>
+		<string>https://github.com/hemisphere-code/nu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>nu.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>89E74894-17B0-4ECB-BCFE-1DB6179DF631</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hemisphere-code/nu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>89E74894-17B0-4ECB-BCFE-1DB6179DF631</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>89E74894-17B0-4ECB-BCFE-1DB6179DF631</string>
+			<key>IDESourceControlWCCName</key>
+			<string>nu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
